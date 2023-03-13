@@ -21,4 +21,8 @@ Once you have downloaded the project, you can see it at:
 
     http://<your_server>/request-docs/
 
+## Credits
+
+The API documentation is automatically generated with [Laravel Request Docs](https://github.com/rakutentech/laravel-request-docs).
+
 :)
